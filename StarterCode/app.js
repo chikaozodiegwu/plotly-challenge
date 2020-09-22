@@ -67,7 +67,7 @@ function buildChart(sample) {
         ];
 
         var barLayout = {
-            title: " Toip 10 Bacteris found",
+            title: " Top 10 Bacteria found",
             margin: { t: 30, l: 150}
         };
 
